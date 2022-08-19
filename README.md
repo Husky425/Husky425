@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on time series forecasting
+- 🌱 I’m currently learning R
+
 <!--
 **Husky425/Husky425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
